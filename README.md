@@ -8,6 +8,7 @@ To run the code in this repository, you need to have the following technologies 
 
 - **Java**: The code runs on the Java Virtual Machine (JVM)
 - **Scala 3**: This repository uses Scala 3 features and syntax
+  (Scala was installed by IntelliJ IDEA plugins marketplace)
 
 ## Course Structure
 
