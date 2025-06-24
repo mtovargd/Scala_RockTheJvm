@@ -10,6 +10,9 @@ To run the code in this repository, you need to have the following technologies 
 - **Scala 3**: This repository uses Scala 3.36 features and syntax
   (Scala was installed by IntelliJ IDEA plugins marketplace)
 
+## Running instructions:
+This repo contains exercises, notes and practices. There's no project, so the way to execute the code is cloning the project in a local folder and open the project in the IntelliJ IDE, every lecture has its own main app and can be executed. 
+
 ## Course Structure
 
 The repository is organized into different sections covering various aspects of Scala programming:
