@@ -30,7 +30,8 @@ object EqualityPlayground extends App {
 
   val john = User("John", 32, "john@rockthejvm.com")
   val anotherJohn = User("John", 45, "anotherJohn@rtjvm.com")
-  println(Equal(john, anotherJohn))
+  println(Equal(john, anotherJohn)) // prints true, the apply method is assigned with the keyword implicit
+  println(FullEquality(john, anotherJohn)) // prints false
   // AD-HOC polymorphism
 
   /*

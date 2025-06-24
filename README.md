@@ -6,8 +6,8 @@ This repository contains code examples and exercises for the Scala programming c
 
 To run the code in this repository, you need to have the following technologies installed:
 
-- **Java**: The code runs on the Java Virtual Machine (JVM)
-- **Scala 3**: This repository uses Scala 3 features and syntax
+- **Java**: The code runs on the Java Virtual Machine (JVM 21)
+- **Scala 3**: This repository uses Scala 3.36 features and syntax
   (Scala was installed by IntelliJ IDEA plugins marketplace)
 
 ## Course Structure
